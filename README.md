@@ -10,7 +10,7 @@ Traditional IT firewalls focus on network packets and IP addresses. But in Opera
 
 I built **ICS-Sentinel** to detect these "logic attacks." Instead of looking for known virus signatures, this project uses Unsupervised Machine Learning to learn the "normal" physical behavior of a plant and flag anything that breaks the laws of physics.
 
-This project was built to demonstrate the **OT, AI, and Data Science** skills required for the internship at DESC.
+This project was built to demonstrate the **OT, AI, and Data Science** skills
 
 ## 🏗️ The Tech Stack
 I wanted to simulate a real-world environment, so I avoided synthetic data and used the **SWaT (Secure Water Treatment)** dataset from iTrust.
@@ -75,4 +75,5 @@ If you want to test this on your machine:
 ![Attack Detail](assets/attack_detail.png)
 ![Attack Detail](assets/attack_detail_1.png)
 ---
+
 *Created by Mohammad Nasser Ibrahim.*
